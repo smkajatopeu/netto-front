@@ -1,0 +1,6 @@
+.auth-page {
+	height: 100vh;
+	background: no-repeat
+		url(/src/assets/animated-neon-mountains-wallpaper-cave.png);
+	background-size: cover;
+}
