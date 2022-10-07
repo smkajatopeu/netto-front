@@ -1,1 +1,1 @@
-## react-hook-form(validate auth from) & routes & redux & redux-reducer
+## react-hook-form(validate auth form) & routes & redux & redux-reducer
